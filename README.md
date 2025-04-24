@@ -31,27 +31,6 @@ Notes:
 The buttons are selected based on their respective color IDs in the HTML.
 The game uses animations for flashing buttons to give visual feedback to the player.
 The game detects incorrect sequences and ends when the player makes a mistake, showing the score before resetting.
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-JavaScript
-59.1%
- 
-HTML
 22.4%
  
 CSS
